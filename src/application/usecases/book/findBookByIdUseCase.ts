@@ -1,4 +1,4 @@
-import { BookRepositoryInterface } from "../../../domain/repositries/bookRepositoryInterface";
+import { BookRepositoryInterface } from "../../../domain/repositories/bookRepositoryInterface";
 import { findBookByIdRequestDto } from "../../dtos/book/findBookByIdRequestDto";
 import { findBookByIdResponseDto } from "../../dtos/book/findBookByIdResponseDto";
 import { findBookByIdUseCaseInterface } from "./findBookByIdUseCaseInterface";

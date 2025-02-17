@@ -1,4 +1,4 @@
-import { BookRepositoryInterface } from "../../../domain/repositries/bookRepositoryInterface";
+import { BookRepositoryInterface } from "../../../domain/repositories/bookRepositoryInterface";
 import { Book } from "../../../domain/entities/book";
 import { IdGeneratorInterface } from "../../../domain/utils/idGeneratorInterface";
 import { AddBookRequestDto } from "../../dtos/book/addBookRequestDto";
